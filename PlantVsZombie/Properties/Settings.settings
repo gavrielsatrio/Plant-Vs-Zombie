@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PlantVsZombie.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ColorDarkBrown" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">106, 49, 22</Value>
+    </Setting>
+    <Setting Name="ColorPaper" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">234, 234, 165</Value>
+    </Setting>
+    <Setting Name="ColorLightBrown" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">147, 71, 30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\bin\Debug\PlantVsZombie.exe.config
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\bin\Debug\PlantVsZombie.exe
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\bin\Debug\PlantVsZombie.pdb
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.MainForm.resources
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.Properties.Resources.resources
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.exe
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.pdb
+D:\Visual Studio Projects\PlantVsZombie\PlantVsZombie\obj\Debug\PlantVsZombie.Layouts.PlantCardLayout.resources
